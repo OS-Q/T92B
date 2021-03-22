@@ -1,6 +1,5 @@
 *~
 *.log
-build*
 packages
 .vscode
 .vagrant
